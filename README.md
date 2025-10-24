@@ -1,12 +1,12 @@
 # Responsi 1 Pemrograman Mobile
 
-Nama        : Aditya Fathan Naufaldi
-NIM         : H1D023076
-Shift Lama  : F
+Nama        : Aditya Fathan Naufaldi<br>
+NIM         : H1D023076<br>
+Shift Lama  : F<br>
 Shift Baru  : B
 
 ## Video Demo Aplikasi
-![Demo](app/docs/videos/demo.gif)
+https://github.com/user-attachments/assets/8847b2ba-3a83-4ebc-b8c2-4c63080ffd01
 
 ## Alur Aplikasi
 Aplikasi ini menggunakan arsitektur MVVM dengan dukungan Retrofit, LiveData, dan ViewBinding untuk mengelola alur data secara terstruktur.
