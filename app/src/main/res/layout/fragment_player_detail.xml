@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/player_background"
+    android:padding="16dp"
+    android:gravity="start">
+
+    <TextView
+        android:id="@+id/tvPlayerName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Player Name"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/tvPlayerBirth"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2000-01-01"
+        android:textSize="14sp"
+        android:layout_marginBottom="4dp"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/tvPlayerNationality"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Germany"
+        android:textSize="14sp"
+        android:layout_marginBottom="4dp"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/tvPlayerPosition"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Midfield"
+        android:textSize="14sp"
+        android:textColor="@color/black" />
+
+</LinearLayout>
